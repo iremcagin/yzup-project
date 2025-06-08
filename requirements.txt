@@ -22,4 +22,4 @@ psutil
 scikit-image
 taming-transformers-rom1504
 pytorch_lightning==1.9.4
-
+stable-baselines3
